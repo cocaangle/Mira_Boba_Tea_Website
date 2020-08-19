@@ -9,3 +9,6 @@ for the shops they've been; besides, they can always add new boba spots and edit
 <br>
 <br>
 ![image](BobaSub.png)
+<br>
+<br>
+![image](BobaIndex.png)
